@@ -1,0 +1,20 @@
+{
+  "name": "thunk2promise",
+  "version": "0.0.0",
+  "description": "Transform or convert thunk to Bluebird Promise.",
+  "repository": "tunnckoCore/thunk2promise",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "manage-arguments": "^1.0.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "keywords": []
+}
