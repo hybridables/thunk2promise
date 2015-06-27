@@ -1,6 +1,6 @@
 {
   "name": "thunk2promise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Transform or convert thunk to Bluebird Promise.",
   "repository": "tunnckoCore/thunk2promise",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
